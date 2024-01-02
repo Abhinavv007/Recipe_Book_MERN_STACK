@@ -1,4 +1,4 @@
-Welcome to our delightful Recipe Book!
+<h1>Welcome to our delightful Recipe Book! </h1>
 
 ## Features
 
